@@ -24,9 +24,11 @@ This is a calculator desktop application using java swing
    ```bash
    javac Calculator.java
 4. After compiling the program, you can run it using the following command:
+   ```bash
    java Calculator
 
-Note:- Calculator.java file is present in Calculator_Aeron where src folder there is a package name calculator in that package Calculator.java file is present
+### Note
+Calculator.java file is present in Calculator_Aeron where src folder there is a package name calculator in that package Calculator.java file is present
 
 
 
