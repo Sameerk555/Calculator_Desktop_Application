@@ -1,6 +1,5 @@
 # Calculator_Desktop_Application
-This is a calculator desktop application using java swing 
-# Java Swing Calculator
+This is a calculator desktop application using java swing
 ## Features
 
 - Supports addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`).
