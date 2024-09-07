@@ -109,7 +109,7 @@ public class Calculator extends JFrame implements ActionListener {
                         if (isOperator(input.charAt(input.length() - 1))) {
                             input.append("0");  // Append 0 as the second operand
                         }
-                        //handle case if result is negative and you want to perform operation with this 
+                        //handle case if result is negative and you want to perform operation with this negative number
                         if(isOperator(input.charAt(0))) {
                         	input.insert(0, "0");
                         }
